@@ -1,0 +1,77 @@
+_repo: Original-Narratives-of-Early-American-HistoryElvas_42841
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42841-h/images/coverpage.jpg
+creator:
+  authors:
+  - agent_name: Núñez Cabeza de Vaca, Alvar, active 16th century
+    aliases:
+    - De Vaca, Alvar Núñez Cabeza
+    - Cabeza de Vaca, Alvar Núñez
+    - Vaca, Alvar Núñez Cabeza de
+    - Nunez Cabeza de Vaca, Alvar
+    gutenberg_agent_id: '3823'
+    url: http://www.gutenberg.org/2009/agents/3823
+  - agent_name: Castañeda de Nájera, Pedro de, active 16th century
+    aliases:
+    - Nagera, Pedro de Castaneda de
+    - Nájera, Pedro de Castañeda de
+    - De Nájera, Pedro de Castañeda
+    - Castañeda Nájera, Pedro
+    - Castaneda de Najera, Pedro de
+    - Castañeda, Pedro
+    - Nágera, Pedro de Castañeda de
+    gutenberg_agent_id: '42133'
+    url: http://www.gutenberg.org/2009/agents/42133
+  - agent_name: Knight of Elvas
+    aliases:
+    - Fidalgo de Elvas
+    - Elvas, Fidalgo de
+    - Elvas, Knight of
+    - Gentleman of Elvas
+    gutenberg_agent_id: '37381'
+    url: http://www.gutenberg.org/2009/agents/37381
+  editors:
+  - agent_name: Hodge, Frederick Webb
+    aliases:
+    - Hodge, F. W. (Frederick Webb)
+    - Hodge, Frederick W.
+    birthdate: 1864
+    deathdate: 1956
+    gutenberg_agent_id: '41882'
+    url: http://www.gutenberg.org/2009/agents/41882
+  - agent_name: Franklin, Jameson J.
+    birthdate: 1859
+    deathdate: 1937
+    gutenberg_agent_id: '41884'
+    url: http://www.gutenberg.org/2009/agents/41884
+    wikipedia: https://en.wikipedia.org/wiki/J._Franklin_Jameson
+  - agent_name: Lewis, Theodore Hayes
+    aliases:
+    - Lewis, Theodore H.
+    - Lewis, T. H. (Theodore Hayes)
+    birthdate: 1856
+    gutenberg_agent_id: '41883'
+    url: http://www.gutenberg.org/2009/agents/41883
+description: ''
+gutenberg_issued: '2013-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42841'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Original Narratives of Early American History
+subjects:
+- !lcc 'E011'
+- !lcsh 'Coronado, Francisco Vásquez de, 1510-1554'
+- !lcsh 'Soto, Hernando de, approximately 1500-1542'
+- !lcsh 'Florida -- History -- To 1565'
+- !lcsh 'Indians of North America'
+- !lcsh 'America -- Discovery and exploration -- Spanish'
+title: "Spanish Explorers in the Southern United States, 1528-1543.\r\nThe Narrative\
+  \ of Alvar Nunez Cabeca de Vaca. The Narrative of the Expedition of Hernando De\
+  \ Soto by the Gentleman of Elvas"
+url: http://www.gutenberg.org/ebooks/42841
